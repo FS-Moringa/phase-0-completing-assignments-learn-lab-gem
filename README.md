@@ -210,9 +210,9 @@ Canvas in order to submit your assignment.
 When all tests are passing, the next step is to upload your work. To do this, we
 need to complete three steps:
 
-1. _staging_ the work so it's ready to save
-2. _committing_ the work to actually save it
-3. _pushing_ the work up to GitHub
+1. _Stage_ the work so it's ready to save
+2. _Commit_ the work to actually save it
+3. _Push_ the work up to GitHub
 
 **Step 1** To stage the work, type the following, then press `<Enter>`:
 
@@ -221,7 +221,7 @@ $ git add .
 ```
 
 By typing this command, you're indicating that any work you've done (i.e., all
-changes you've amde to any of the files in your local copy of an assignment)
+changes you've made to any of the files in your local copy of an assignment)
 should be saved in the next step.
 
 **Step 2**: To actually _save_ the changes, we run the following, then press
@@ -276,12 +276,13 @@ you get all the tests passing. Let's do that now:
 3. Paste in your repository's GitHub URL in the box labeled "Website URL".
 
 4. Go back to your terminal, select the entire token and copy it (using ctrl-C
-   or cmd-C), then paste it in the "Comments" box in Canvas. It should look
-   something like this:
-
-![submit repo url and token](https://curriculum-content.s3.amazonaws.com/phase-0/enterprise/configuring-the-learn-lab-gem/submit-assignment.png)
+   or cmd-C), then paste it in the "Comments" box in Canvas.
 
 5. Click **Submit Assignment**.
+
+The form you're submitting should look something like this:
+
+![submit repo url and token](https://curriculum-content.s3.amazonaws.com/phase-0/enterprise/configuring-the-learn-lab-gem/submit-assignment.png)
 
 Canvas will indicate a successful submission and refresh the page. In the
 Modules view of your course, you should now see a checkmark next to the
